@@ -9,8 +9,6 @@
             <RowDefinition Height="0"></RowDefinition>
         </Grid.RowDefinitions>
 
-
-
         <StackPanel Grid.Row="0" Orientation="Horizontal">
             <Button x:Name="homeButton" Margin="10" Content="Home" Click="homeButton_Click"/>
             <Button x:Name="aboutButton" Margin="10" Content="About" Click="aboutButton_Click"/>
